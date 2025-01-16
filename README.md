@@ -1,2 +1,2 @@
 # golang-coding
-Golang practice workspace
+Golang learning workspace
